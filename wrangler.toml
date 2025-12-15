@@ -1,6 +1,5 @@
 name = "hosting-cloudflare-worker"
 compatibility_date = "2025-07-31"
-pages_build_output_dir = './dist'
 
 [build]
 command = "chmod a+x ./scripts/build.sh && ./scripts/build.sh"

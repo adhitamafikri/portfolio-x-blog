@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Adhitama Fikri Kusumahendra W</title>
+    <title>Adhitama Fikri Kusumahendra W</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Adhitama Fikri Kusumahendra W</description>
+    <description>Recent content on Adhitama Fikri Kusumahendra W</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 15 Dec 2025 13:13:16 +0000</lastBuildDate>
@@ -58,74 +58,11 @@
       <description>This is a test document containing various Markdown syntax to verify the completeness of prose styles.</description>
     </item>
     <item>
-      <title>À Propos</title>
-      <link>http://localhost:1313/about.fr/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/about.fr/</guid>
-      <description>Découvrez le thème Hugo Narrow et sa pile technologique</description>
-    </item>
-    <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0800</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Learn about Hugo Narrow theme and its technology stack</description>
-    </item>
-    <item>
-      <title>について</title>
-      <link>http://localhost:1313/about.ja/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/about.ja/</guid>
-      <description>Hugo Narrow テーマとその技術スタックについて</description>
-    </item>
-    <item>
-      <title>关于</title>
-      <link>http://localhost:1313/about.zh-cn/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/about.zh-cn/</guid>
-      <description>了解 Hugo Narrow 主题及其技术栈</description>
-    </item>
-    <item>
-      <title>Accueil</title>
-      <link>http://localhost:1313/_index.fr/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/_index.fr/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Archives</title>
-      <link>http://localhost:1313/archives/_index.fr/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/archives/_index.fr/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>アーカイブ</title>
-      <link>http://localhost:1313/archives/_index.ja/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/archives/_index.ja/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ホーム</title>
-      <link>http://localhost:1313/_index.ja/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/_index.ja/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>归档</title>
-      <link>http://localhost:1313/archives/_index.zh-cn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/archives/_index.zh-cn/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>首页</title>
-      <link>http://localhost:1313/_index.zh-cn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/_index.zh-cn/</guid>
-      <description></description>
+      <description>A little bit story from me</description>
     </item>
   </channel>
 </rss>

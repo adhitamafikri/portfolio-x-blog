@@ -16,53 +16,11 @@
       <description>&lt;h1 id=&#34;github-style-alert-testing&#34;&gt;GitHub Style Alert Testing&lt;/h1&gt;&#xA;&lt;p&gt;This article is used to test the new GitHub-style Alert feature and folding functionality.&lt;/p&gt;&#xA;&lt;h2 id=&#34;alert-syntax&#34;&gt;Alert Syntax&lt;/h2&gt;&#xA;&lt;h3 id=&#34;note-alert&#34;&gt;Note Alert&lt;/h3&gt;&#xA;&lt;div&#xA;    class=&#34;alert alert-note my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;&#xA;    style=&#34;background-color: color-mix(in srgb, var(--color-note) 10%, transparent);&#xA;              border-left-color: var(--color-note);&#xA;              --hover-bg: color-mix(in srgb, var(--color-note) 15%, transparent);&#34;&#xA;    onmouseover=&#34;this.style.backgroundColor = this.style.getPropertyValue(&#39;--hover-bg&#39;)&#34;&#xA;    onmouseout=&#34;this.style.backgroundColor = &#39;color-mix(in srgb, var(--color-note) 10%, transparent)&#39;&#34;&#xA;    role=&#34;alert&#34;&#xA;    aria-labelledby=&#34;alert-0-title&#34;&gt;&#xA;    &#xA;    &lt;div&#xA;      class=&#34; flex items-center justify-between px-6 py-6&#34;&#xA;      &gt;&#xA;      &lt;div class=&#34;flex items-center gap-3&#34;&gt;&#xA;        &#xA;        &lt;h4&#xA;          id=&#34;alert-0-title&#34;&#xA;          class=&#34;m-0 font-semibold text-foreground/90&#34;&gt;&#xA;          Note&#xA;        &lt;/h4&gt;&#xA;      &lt;/div&gt;&#xA;&#xA;      &#xA;      &#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;    &lt;div&#xA;      id=&#34;alert-0-content&#34;&#xA;      class=&#34;alert-content  px-6 pb-6&#34;&gt;&#xA;      &lt;div class=&#34;prose prose-sm text-foreground/90 max-w-none&#34;&gt;&#xA;        &lt;p&gt;This is a note alert box. Used to display useful information that users should be aware of, even when quickly browsing the content.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>GitHub 风格提示框测试</title>
-      <link>http://localhost:1313/posts/test-alert/</link>
-      <pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/test-alert/</guid>
-      <description>&lt;h1 id=&#34;github-风格提示框测试&#34;&gt;GitHub 风格提示框测试&lt;/h1&gt;&#xA;&lt;p&gt;本文用于测试新的 GitHub 风格提示框功能和折叠功能。&lt;/p&gt;&#xA;&lt;h2 id=&#34;提示框语法&#34;&gt;提示框语法&lt;/h2&gt;&#xA;&lt;h3 id=&#34;注意提示框&#34;&gt;注意提示框&lt;/h3&gt;&#xA;&lt;div&#xA;    class=&#34;alert alert-note my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;&#xA;    style=&#34;background-color: color-mix(in srgb, var(--color-note) 10%, transparent);&#xA;              border-left-color: var(--color-note);&#xA;              --hover-bg: color-mix(in srgb, var(--color-note) 15%, transparent);&#34;&#xA;    onmouseover=&#34;this.style.backgroundColor = this.style.getPropertyValue(&#39;--hover-bg&#39;)&#34;&#xA;    onmouseout=&#34;this.style.backgroundColor = &#39;color-mix(in srgb, var(--color-note) 10%, transparent)&#39;&#34;&#xA;    role=&#34;alert&#34;&#xA;    aria-labelledby=&#34;alert-0-title&#34;&gt;&#xA;    &#xA;    &lt;div&#xA;      class=&#34; flex items-center justify-between px-6 py-6&#34;&#xA;      &gt;&#xA;      &lt;div class=&#34;flex items-center gap-3&#34;&gt;&#xA;        &#xA;        &lt;h4&#xA;          id=&#34;alert-0-title&#34;&#xA;          class=&#34;m-0 font-semibold text-foreground/90&#34;&gt;&#xA;          Note&#xA;        &lt;/h4&gt;&#xA;      &lt;/div&gt;&#xA;&#xA;      &#xA;      &#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;    &lt;div&#xA;      id=&#34;alert-0-content&#34;&#xA;      class=&#34;alert-content  px-6 pb-6&#34;&gt;&#xA;      &lt;div class=&#34;prose prose-sm text-foreground/90 max-w-none&#34;&gt;&#xA;        &lt;p&gt;这是一个注意提示框。用于显示用户应该注意的有用信息，即使在快速浏览内容时也应该注意。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GitHubスタイルアラートテスト</title>
-      <link>http://localhost:1313/posts/test-alert/</link>
-      <pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/test-alert/</guid>
-      <description>&lt;h1 id=&#34;githubスタイルアラートテスト&#34;&gt;GitHubスタイルアラートテスト&lt;/h1&gt;&#xA;&lt;p&gt;この記事は新しいGitHubスタイルアラート機能と折りたたみ機能をテストするために使用されます。&lt;/p&gt;&#xA;&lt;h2 id=&#34;アラート構文&#34;&gt;アラート構文&lt;/h2&gt;&#xA;&lt;h3 id=&#34;ノートアラート&#34;&gt;ノートアラート&lt;/h3&gt;&#xA;&lt;div&#xA;    class=&#34;alert alert-note my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;&#xA;    style=&#34;background-color: color-mix(in srgb, var(--color-note) 10%, transparent);&#xA;              border-left-color: var(--color-note);&#xA;              --hover-bg: color-mix(in srgb, var(--color-note) 15%, transparent);&#34;&#xA;    onmouseover=&#34;this.style.backgroundColor = this.style.getPropertyValue(&#39;--hover-bg&#39;)&#34;&#xA;    onmouseout=&#34;this.style.backgroundColor = &#39;color-mix(in srgb, var(--color-note) 10%, transparent)&#39;&#34;&#xA;    role=&#34;alert&#34;&#xA;    aria-labelledby=&#34;alert-0-title&#34;&gt;&#xA;    &#xA;    &lt;div&#xA;      class=&#34; flex items-center justify-between px-6 py-6&#34;&#xA;      &gt;&#xA;      &lt;div class=&#34;flex items-center gap-3&#34;&gt;&#xA;        &#xA;        &lt;h4&#xA;          id=&#34;alert-0-title&#34;&#xA;          class=&#34;m-0 font-semibold text-foreground/90&#34;&gt;&#xA;          Note&#xA;        &lt;/h4&gt;&#xA;      &lt;/div&gt;&#xA;&#xA;      &#xA;      &#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;    &lt;div&#xA;      id=&#34;alert-0-content&#34;&#xA;      class=&#34;alert-content  px-6 pb-6&#34;&gt;&#xA;      &lt;div class=&#34;prose prose-sm text-foreground/90 max-w-none&#34;&gt;&#xA;        &lt;p&gt;これはノートアラートボックスです。コンテンツを素早く閲覧している場合でも、ユーザーが注意すべき有用な情報を表示するために使用されます。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Test d&#39;Alertes Style GitHub</title>
-      <link>http://localhost:1313/posts/test-alert/</link>
-      <pubDate>Sun, 01 Jun 2025 10:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/test-alert/</guid>
-      <description>&lt;h1 id=&#34;test-dalertes-style-github&#34;&gt;Test d&amp;rsquo;Alertes Style GitHub&lt;/h1&gt;&#xA;&lt;p&gt;Cet article est utilisé pour tester la nouvelle fonctionnalité d&amp;rsquo;alertes style GitHub et la fonctionnalité de pliage.&lt;/p&gt;&#xA;&lt;h2 id=&#34;syntaxe-des-alertes&#34;&gt;Syntaxe des Alertes&lt;/h2&gt;&#xA;&lt;h3 id=&#34;alerte-note&#34;&gt;Alerte Note&lt;/h3&gt;&#xA;&lt;div&#xA;    class=&#34;alert alert-note my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;&#xA;    style=&#34;background-color: color-mix(in srgb, var(--color-note) 10%, transparent);&#xA;              border-left-color: var(--color-note);&#xA;              --hover-bg: color-mix(in srgb, var(--color-note) 15%, transparent);&#34;&#xA;    onmouseover=&#34;this.style.backgroundColor = this.style.getPropertyValue(&#39;--hover-bg&#39;)&#34;&#xA;    onmouseout=&#34;this.style.backgroundColor = &#39;color-mix(in srgb, var(--color-note) 10%, transparent)&#39;&#34;&#xA;    role=&#34;alert&#34;&#xA;    aria-labelledby=&#34;alert-0-title&#34;&gt;&#xA;    &#xA;    &lt;div&#xA;      class=&#34; flex items-center justify-between px-6 py-6&#34;&#xA;      &gt;&#xA;      &lt;div class=&#34;flex items-center gap-3&#34;&gt;&#xA;        &#xA;        &lt;h4&#xA;          id=&#34;alert-0-title&#34;&#xA;          class=&#34;m-0 font-semibold text-foreground/90&#34;&gt;&#xA;          Note&#xA;        &lt;/h4&gt;&#xA;      &lt;/div&gt;&#xA;&#xA;      &#xA;      &#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;    &lt;div&#xA;      id=&#34;alert-0-content&#34;&#xA;      class=&#34;alert-content  px-6 pb-6&#34;&gt;&#xA;      &lt;div class=&#34;prose prose-sm text-foreground/90 max-w-none&#34;&gt;&#xA;        &lt;p&gt;Ceci est une boîte d&amp;rsquo;alerte note. Utilisée pour afficher des informations utiles dont les utilisateurs doivent être conscients, même lors d&amp;rsquo;un parcours rapide du contenu.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Document de Test de Syntaxe Markdown</title>
-      <link>http://localhost:1313/posts/document-de-test-de-syntaxe-markdown/</link>
-      <pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/document-de-test-de-syntaxe-markdown/</guid>
-      <description>Ceci est un document de test contenant diverses syntaxes Markdown pour vérifier l&amp;rsquo;exhaustivité des styles de prose.</description>
-    </item>
-    <item>
       <title>Markdown Syntax Test Document</title>
       <link>http://localhost:1313/posts/markdown-syntax-test-document/</link>
       <pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate>
       <guid>http://localhost:1313/posts/markdown-syntax-test-document/</guid>
       <description>This is a test document containing various Markdown syntax to verify the completeness of prose styles.</description>
-    </item>
-    <item>
-      <title>Markdown 语法测试文档</title>
-      <link>http://localhost:1313/posts/markdown-%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</link>
-      <pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/markdown-%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</guid>
-      <description>这是一个包含各种 Markdown 语法的测试文档，用于验证文档样式的完整性。</description>
-    </item>
-    <item>
-      <title>Markdown構文テストドキュメント</title>
-      <link>http://localhost:1313/posts/markdown%E6%A7%8B%E6%96%87%E3%83%86%E3%82%B9%E3%83%88%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/</link>
-      <pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/markdown%E6%A7%8B%E6%96%87%E3%83%86%E3%82%B9%E3%83%88%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/</guid>
-      <description>これは様々なMarkdown構文を含むテストドキュメントで、プロススタイルの完全性を検証するためのものです。</description>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@ baseURL: https://hugo-narrow.vercel.app/
 languageCode: en-US
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
-title: Hugo Narrow
+title: Adhitama Fikri Kusumahendra W
 theme: "hugo-narrow"
 
 caches:
@@ -87,47 +87,47 @@ menus:
       weight: 10
       params:
         icon: about
-    - name: Contact
-      url: https://google.com
-      weight: 20
-      params:
-        icon: contact
-    - name: RSS Feed
-      url: /index.xml
-      weight: 30
-      params:
-        icon: rss
+    # - name: Contact
+    #   url: https://google.com
+    #   weight: 20
+    #   params:
+    #     icon: contact
+    # - name: RSS Feed
+    #   url: /index.xml
+    #   weight: 30
+    #   params:
+    #     icon: rss
 
   # footer social link
   social:
     - name: GitHub
-      url: https://github.com/username
+      url: https://github.com/adhitamafikri
       weight: 10
       params:
         icon: github
-    - name: Twitter
-      url: https://twitter.com/username
-      weight: 20
-      params:
-        icon: twitter
+    # - name: Twitter
+    #   url: https://twitter.com/username
+    #   weight: 20
+    #   params:
+    #     icon: twitter
     - name: LinkedIn
-      url: https://linkedin.com/in/username
+      url: https://www.linkedin.com/in/adhitama-fikri-20519a162/
       weight: 30
       params:
         icon: linkedin
-    - name: Email
-      url: mailto:your.email@example.com
-      weight: 40
-      params:
-        icon: email
+    # - name: Email
+    #   url: mailto:your.email@example.com
+    #   weight: 40
+    #   params:
+    #     icon: email
 
 params:
   # Basic site info with SEO
-  description: "A modern, clean, and minimal Hugo theme built with Tailwind CSS 4.0. Support custom themes, dark mode, and responsive design."
-  keywords: ["Hugo", "Blog", "Theme", "Technology", "Programming"]
-  defaultAuthor: "Hugo Narrow"
+  description: "A Frontend-focused Software Engineer with 5+ years of experience. Helped companies building their Online Marketplace Platforms, Help Center Platforms and Integrate 3rd party SDKs to create useful widgets"
+  keywords: ["Adhitama", "Fikri", "Adhitama Fikri", "Frontend Engineer", "Software Engineer", "Technology", "Programming"]
+  defaultAuthor: "Adhitama Fikri Kusumahendra W"
   language: "en-US"
-  shortName: "Hugo Narrow"  # PWA
+  shortName: "Adhitama Fikri"  # PWA
   images:
   - "/images/og-default.avif"
 

@@ -5,7 +5,7 @@
     "technology",
     "education"
   ],
-  "description": "A modern, clean, and minimal Hugo theme built with Tailwind CSS 4.0. Support custom themes, dark mode, and responsive design.",
+  "description": "A Frontend-focused Software Engineer with 5+ years of experience. Helped companies building their Online Marketplace Platforms, Help Center Platforms and Integrate 3rd party SDKs to create useful widgets",
   "dir": "ltr",
   "display": "standalone",
   "icons": [
@@ -16,10 +16,10 @@
     }
   ],
   "lang": "en-US",
-  "name": "Hugo Narrow",
+  "name": "Adhitama Fikri Kusumahendra W",
   "orientation": "portrait-primary",
   "scope": "/",
-  "short_name": "Hugo Narrow",
+  "short_name": "Adhitama Fikri",
   "start_url": "/",
   "theme_color": "#09090b"
 }

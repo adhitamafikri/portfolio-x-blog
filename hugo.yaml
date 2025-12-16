@@ -5,6 +5,9 @@ defaultContentLanguageInSubdir: false
 title: Hugo Narrow
 theme: "hugo-narrow"
 
+caches:
+  images:
+    dir: :cacheDir/images
 
 hasCJKLanguage: true
 enableEmoji: true
@@ -142,14 +145,17 @@ params:
     avatar: "/images/avatar.svg"
     social:
       - name: "GitHub"
-        url: "https://github.com/username"
+        url: "https://github.com/adhitamafikri"
         icon: "github"
-      - name: "Twitter"
-        url: "https://twitter.com/username"
-        icon: "twitter"
-      - name: "Email"
-        url: "mailto:hello@example.com"
-        icon: "email"
+      - name: "LinkedIn"
+        url: "https://www.linkedin.com/in/adhitama-fikri-20519a162/"
+        icon: "linkedin"
+      # - name: "Twitter"
+      #   url: "https://twitter.com/username"
+      #   icon: "twitter"
+      # - name: "Email"
+      #   url: "mailto:hello@example.com"
+      #   icon: "email"
 
   # UI Components Control
   showThemeSwitch: true      # Set to false to hide theme style switcher (palette icon)
@@ -218,7 +224,7 @@ params:
   
     license:
       show: true
-      author: "Hugo Narrow"
+      author: "Adhitama Fikri Kusumahendra W"
       name: "CC BY-NC-SA 4.0"
       description: "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Please attribute the source, use non-commercially, and maintain the same license."
       url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
